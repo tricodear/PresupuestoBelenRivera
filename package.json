@@ -1,0 +1,21 @@
+{
+  "name": "propuesta-digital-belen-rivera",
+  "version": "1.0.0",
+  "description": "Plataforma web para gestión autónoma de clases y horarios",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "serve": "http-server -p 3000",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "gestión de clases",
+    "entrenamiento funcional",
+    "plataforma web",
+    "PWA"
+  ],
+  "author": "Tricode",
+  "license": "UNLICENSED",
+  "type": "module"
+}
