@@ -1,7 +1,7 @@
 {
   "buildCommand": "echo 'Static site, no build required'",
   "framework": null,
-  "env": [],
+  "env": {},
   "headers": [
     {
       "source": "/(.*)",
